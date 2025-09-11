@@ -20,7 +20,7 @@
 🎓 Bachiller en Informática <br>
 🎓 Estudiante de Ingeniería en Computación <br><br>
 
-💻 CEO de Veliox Software Solutions<strong></strong><br>
+💻 Fundador de Veliox Software Solutions<strong></strong><br>
 🧠 Desarrollo de bots para Discord, sistemas de gestión y sitios web<br>
 🌎 19 años — Uruguay 🇺🇾<br><br>
 
