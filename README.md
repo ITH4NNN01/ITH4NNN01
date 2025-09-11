@@ -23,6 +23,7 @@
 💻 Fundador de Veliox Software Solutions<strong></strong><br>
 🧠 Desarrollo de bots para Discord, sistemas de gestión y sitios web<br>
 🌎 19 años — Uruguay 🇺🇾<br><br>
+🌎 velioxuy.online<br><br>
 
 📬 Contacto: <strong>ithandev01@gmail.com</strong>
 </p>
